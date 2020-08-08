@@ -10,6 +10,14 @@
   enable = true
 
 [[buttons]]
+  id = "linkedin"
+  url = "https://www.linkedin.com/shareArticle?url={url}&title={title}"
+  title = "LinkedIn"
+  icon_pack = "fab"
+  icon = "linkedin-in"
+  enable = true
+
+[[buttons]]
   id = "facebook"
   url = "https://www.facebook.com/sharer.php?u={url}&t={title}"
   title = "Facebook"
@@ -26,20 +34,12 @@
   enable = true
 
 [[buttons]]
-  id = "linkedin"
-  url = "https://www.linkedin.com/shareArticle?url={url}&title={title}"
-  title = "LinkedIn"
-  icon_pack = "fab"
-  icon = "linkedin-in"
-  enable = true
-
-[[buttons]]
   id = "whatsapp"
   url = "whatsapp://send?text={title}%20{url}"
   title = "WhatsApp"
   icon_pack = "fab"
   icon = "whatsapp"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "weibo"
@@ -47,7 +47,7 @@
   title = "Weibo"
   icon_pack = "fab"
   icon = "weibo"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "reddit"
