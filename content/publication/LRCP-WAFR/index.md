@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "International Workshop on the Algorithmic Foundations of Robotics"
-publication_short: ""
+publication_short: "WAFR"
 
 abstract: " Semidefinite relaxation has recently emerged as a powerful
 technique for machine perception, in many cases enabling the recovery of *certifiably globally optimal* solutions of generally-intractable nonconvex estimation problems. However, the high computational cost of standard interior-point methods for semidefinite optimization prevents these algorithms from scaling effectively to the high-dimensional problems frequently encountered in machine perception tasks. To address this challenge, in this paper we present an efficient algorithm for solving the large-scale but *low-rank* semidefinite relaxations that underpin current
