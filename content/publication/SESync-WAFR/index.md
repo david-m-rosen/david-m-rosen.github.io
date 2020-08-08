@@ -19,14 +19,14 @@ publication_types: ["1"]
 publication: "*International Workshop on the Algorithmic Foundations of Robotics*"
 publication_short: "WAFR"
 
-abstract: ""
+abstract: "Many important geometric perception tasks require *synchronization over the special Euclidean group*: estimate a set of unknown *poses* (positions and orientations in 2D or 3D space) from a collection of noisy relative measurements between them.  For example, the foundational problems of pose-graph SLAM (in robotics), bundle adjustment (in computer vision), and sensor network localization (in distributed sensing) all belong to this class.  This estimation problem is both *high-dimensional* (due to the large number of poses that typically must be estimated) and *nonconvex* (due to the nonconvexity of the space of orientations itself), and therefore computationally hard to solve in general.  In practice, this  manifests in the form of *many* significantly suboptimal local minima that can entrap the local optimization methods commonly applied to this problem. "
 
 # Summary. An optional shortened abstract.
-summary: "Solves your PGO problem, guaranteed"
+summary: "Find *provably globally optimal* solutions of pose-graph SLAM"
 
-tags: []
+tags: ["SE-Sync", "Certifiably correct SLAM", "Pose-graph SLAM", "Global optimization", "Riemannian optimization", "Semidefinite programming", "Convex relaxation"]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -50,8 +50,8 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
-  preview_only: false
+  focal_point: "Left"
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
