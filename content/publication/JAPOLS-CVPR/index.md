@@ -16,8 +16,8 @@ publishDate: 2020-08-08T19:03:43-04:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+publication_short: "CVPR"
 
 abstract: "Background models are widely used in computer vision. While static-camera background (SCB) modeling is reasonably well-understood, moving-camera background (MCB) modeling remains a challenge. In this work, we propose a purely-2D, unsupervised, modular method that systematically overcomes these challenges. First, to estimate warps in the original video, we solve a joint-alignment problem while leveraging a certifiably-correct initialization. Next, we learn *both* multiple partially-overlapping local subspaces *and* how to predict registrations into these subspaces. Finally, at test time, we use these learned predictors to align a previously-unseen frame with the learned subspaces, and project it on a subset of those subspaces to obtain a background/foreground segmentation. We demonstrate that our method handles even large scenes with a relatively-free camera motion (provided the camera-to-scene distance does not change much), and that it not only yields state-of-the-art results on the original video, but also generalizes gracefully to previously-unseen videos of the same scene."
 
