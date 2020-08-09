@@ -30,7 +30,7 @@ summary: "Build your own certifiably correct machine perception methods"
 
 tags: ["certifiably correct perception", "semidefinite programming", "low-rank semidefinite programming", "convex relaxation"]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

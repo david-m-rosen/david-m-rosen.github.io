@@ -26,7 +26,7 @@ summary: ""
 
 tags: ["verification", "SLAM", "Lagrangian duality", "global optimality"]
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
