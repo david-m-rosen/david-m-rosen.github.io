@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'A Smooth Representation of Belief over $SO(3)$ for Deep Rotation Learning with Uncertainty'
+title: 'A Smooth Representation of Belief over SO(3) for Deep Rotation Learning with Uncertainty'
 authors: ["Valentin Peretroukhin", "Matthew Giamou", "David M. Rosen", "W. Nicholas Greene", "Nicholas Roy", "Jonathan Kelly"]
 date: 2020-07-12
 doi: ""
