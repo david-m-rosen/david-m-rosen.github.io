@@ -24,7 +24,7 @@ abstract: "Background models are widely used in computer vision. While static-ca
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Background modeling", "Moving-camera background modeling", "Foreground/background separation"]
+tags: ["background modeling", "moving-camera background modeling", "foreground/background separation"]
 categories: []
 featured: false
 

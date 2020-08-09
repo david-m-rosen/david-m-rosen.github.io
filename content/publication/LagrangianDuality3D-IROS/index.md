@@ -24,7 +24,7 @@ abstract: "State-of-the-art techniques for simultaneous localization and mapping
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Verification", "SLAM", "Lagrangian Duality", "Global optimality"]
+tags: ["verification", "SLAM", "Lagrangian duality", "global optimality"]
 categories: []
 featured: true
 

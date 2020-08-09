@@ -32,7 +32,7 @@ models to solve each of these subproblems in succession, we thus obtain a genera
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["SLAM", "Factor graphs", "Gaussian process"]
+tags: ["SLAM", "factor graphs", "Gaussian processes"]
 categories: []
 featured: false
 

@@ -25,7 +25,7 @@ abstract: 'Accurate rotation estimation is at the heart of robot perception task
 # Summary. An optional shortened abstract.
 summary: 'A novel parameterization for deep Bayesian rotation estimation  </br><span style="color:red">Best Student Paper Award (RSS 2020)</span>'
 
-tags: ["Deep learning", "Bayesian estimation", "Rotation estimation"]
+tags: ["deep learning", "Bayesian estimation", "rotation estimation"]
 categories: []
 featured: true
 

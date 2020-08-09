@@ -28,7 +28,7 @@ The result is an easy-to-use, general-purpose computational tool capable of supp
 # Summary. An optional shortened abstract.
 summary: "Build your own certifiably correct machine perception methods"
 
-tags: ["Certifiably correct perception", "Semidefinite programming", "Low-rank semidefinite programming", "Convex relaxation"]
+tags: ["certifiably correct perception", "semidefinite programming", "low-rank semidefinite programming", "convex relaxation"]
 categories: []
 featured: false
 

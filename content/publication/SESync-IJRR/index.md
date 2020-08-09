@@ -27,7 +27,7 @@ is computationally hard to solve in general. In practice, this hardness manifest
 # Summary. An optional shortened abstract.
 summary: 'A fast algorithm for *certifiably globally optimal* pose-graph SLAM  </br><span style="color:red">Invited article (IJRR Special Issue)</span>'
 
-tags: ["SE-Sync", "Certifiably correct SLAM",  "Pose-graph SLAM", "Global optimization", "Riemannian optimization", "Semidefinite programming", "Convex relaxation"]
+tags: ["SE-Sync", "certifiably correct SLAM",  "pose-graph SLAM", "global optimization", "Riemannian optimization", "semidefinite programming", "convex relaxation"]
 categories: []
 featured: true
 

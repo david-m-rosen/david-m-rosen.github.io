@@ -29,7 +29,7 @@ to obtain a high-quality solution to the SLAM problem *without* requiring high-q
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Pose-graph SLAM", "Semidefinite relaxation", "Convex relaxation"]
+tags: ["pose-graph SLAM", "semidefinite relaxation", "convex relaxation"]
 categories: []
 featured: false
 

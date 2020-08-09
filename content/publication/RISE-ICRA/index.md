@@ -30,7 +30,7 @@ state-of-the-art incremental sparse least-squares methods while providing superi
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["SLAM", "computer vision", "online estimation", "nonlinear least-squarse", "incremental optimization", "factor graphs"]
+tags: ["SLAM", "computer vision", "online estimation", "nonlinear least-squares", "incremental optimization", "factor graphs"]
 categories: []
 featured: false
 

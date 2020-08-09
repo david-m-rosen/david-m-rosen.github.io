@@ -31,7 +31,7 @@ to nonlinearity and numerical ill-conditioning, and is provably globally converg
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["SLAM", "Computer vision", "online estimation", "Nonlinear least-squares", "incremental optimization"]
+tags: ["SLAM", "computer vision", "online estimation", "nonlinear least-squares", "incremental optimization"]
 categories: []
 featured: false
 

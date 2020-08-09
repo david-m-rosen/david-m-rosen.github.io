@@ -24,7 +24,7 @@ abstract: 'Shonan Rotation Averaging is a fast, simple, and elegant rotation ave
 # Summary. An optional shortened abstract.
 summary: 'A fast algorithm for *certifiably globally optimal* rotation averaging  </br><span style="color:red">ECCV spotlight talk (top 5%)</span>'
 
-tags: ["Shonan Averaging", "Certifiably correct rotation averaging", "Global optimization", "Riemannian optimization", "Semidefinite programming", "Convex relaxation"]
+tags: ["Shonan averaging", "certifiably correct rotation averaging", "global optimization", "Riemannian optimization", "semidefinite programming", "convex relaxation"]
 categories: []
 featured: true
 

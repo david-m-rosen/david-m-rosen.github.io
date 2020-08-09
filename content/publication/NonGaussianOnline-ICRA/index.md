@@ -26,7 +26,7 @@ possibility of performing efficient incremental online estimation over sparse fa
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["SLAM", "Robust estimation", "Non-Gaussian inference", "Factor graph"]
+tags: ["SLAM", "robust estimation", "non-Gaussian estimation", "factor graph"]
 categories: []
 featured: false
 

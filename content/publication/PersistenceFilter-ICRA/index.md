@@ -34,7 +34,7 @@ for *lifelong* environmental modeling in an ever-changing world.'
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Semi-static SLAM", "Feature persistence", "Persistence filter"]
+tags: ["semi-static SLAM", "feature persistence", "persistence filter"]
 categories: []
 featured: false
 
