@@ -8,6 +8,49 @@
   url = "#about"
   weight = 10
 
+# Publications
+
+# Main top-level menu for publications
+
+[[main]]
+  name = "Publications"
+  url = "/publications"
+  identifier="publications"
+  weight = 20
+
+ # Sub-headings
+
+[[main]]
+  name = "All"
+  url = "/publications/"
+  weight = 10
+  parent = "publications"
+
+[[main]]
+  name = "Journal"
+  url = "/publications/#journal"
+  weight = 20
+  parent = "publications"
+
+
+[[main]]
+  name = "Conference"
+  url = "/publications/#conference"
+  weight = 30
+  parent = "publications"
+
+[[main]]
+  name = "Workshop"
+  url = "/publications/#workshop"
+  weight = 40
+  parent = "publications"
+
+[[main]]
+  name = "Technical report"
+  url = "/publications/#techreport"
+  weight = 50
+  parent = "publications"
+
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
@@ -17,11 +60,6 @@
 #  name = "Projects"
 #  url = "#projects"
 #  weight = 30
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
