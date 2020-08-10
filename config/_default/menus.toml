@@ -13,7 +13,7 @@
 # Main top-level menu for publications
 
 [[main]]
-  name = "Publications"
+  name = "Selected publications"
   url = "/publications"
   identifier="publications"
   weight = 20
