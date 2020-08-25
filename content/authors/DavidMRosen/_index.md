@@ -14,8 +14,6 @@ role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Laboratory for Information and Decision Systems
-  url: "https://lids.mit.edu/"
 - name: Massachusetts Institute of Technology
   url:  "https://www.mit.edu/"
 
@@ -23,9 +21,11 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Optimization
+- Geometry
+- Statistical estimation
+- Machine learning 
+- Robotics
 
 education:
   courses:
@@ -70,8 +70,19 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
+
+#Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+#I am broadly interested in the mathematical foundations of machine perception: optimization, geometry, statistical estimation, and machine learning.   
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Postdoctoral Associate in the Laboratory for Information and Decision Systems (<a href="https://lids.mit.edu/">LIDS</a>) at the Massachusetts Institute of Technology, where I am fortunate to be advised by [Pablo Parrilo](https://www.mit.edu/~parrilo/).  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am broadly interested in the mathematical foundations of machine perception: optimization, geometry, algebra, statistical estimation, and information theory. My research applies analytical tools from these disciplines to build principled, computationally efficient, and **provably robust machine perception** systems that “just work” in the real world.
+
+
+
+
