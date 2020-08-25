@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SLAM | David M. Rosen</title>
+    <link>https://david-m-rosen.github.io/tag/slam/</link>
+      <atom:link href="https://david-m-rosen.github.io/tag/slam/index.xml" rel="self" type="application/rss+xml" />
+    <description>SLAM</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 David M. Rosen</copyright><lastBuildDate>Fri, 25 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://david-m-rosen.github.io/images/icon_hu622d6c41af8452549db786cb9e39d510_238833_512x512_fill_lanczos_center_2.png</url>
+      <title>SLAM</title>
+      <link>https://david-m-rosen.github.io/tag/slam/</link>
+    </image>
+    
+    <item>
+      <title>Lagrangian Duality in 3D SLAM: Verification Techniques and Optimal Solutions</title>
+      <link>https://david-m-rosen.github.io/publication/lagrangianduality3d-iros/</link>
+      <pubDate>Fri, 25 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/lagrangianduality3d-iros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RISE: An Incremental Trust-Region Method for Robust Online Sparse Least-Squares Estimation</title>
+      <link>https://david-m-rosen.github.io/publication/rise2-tro/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/rise2-tro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Incremental Online Inference over Sparse Factor Graphs: Beyond the Gaussian Case</title>
+      <link>https://david-m-rosen.github.io/publication/nongaussianonline-icra/</link>
+      <pubDate>Mon, 06 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/nongaussianonline-icra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Incremental Trust-Region Method for Robust Online Sparse Least-Squares Estimation</title>
+      <link>https://david-m-rosen.github.io/publication/rise-icra/</link>
+      <pubDate>Mon, 14 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/rise-icra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

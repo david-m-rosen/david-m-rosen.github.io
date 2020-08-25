@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riemannian optimization | David M. Rosen</title>
+    <link>https://david-m-rosen.github.io/tag/riemannian-optimization/</link>
+      <atom:link href="https://david-m-rosen.github.io/tag/riemannian-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Riemannian optimization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 David M. Rosen</copyright><lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://david-m-rosen.github.io/images/icon_hu622d6c41af8452549db786cb9e39d510_238833_512x512_fill_lanczos_center_2.png</url>
+      <title>Riemannian optimization</title>
+      <link>https://david-m-rosen.github.io/tag/riemannian-optimization/</link>
+    </image>
+    
+    <item>
+      <title>Shonan Rotation Averaging: Global Optimality by Surfing $SO(p)^n$</title>
+      <link>https://david-m-rosen.github.io/publication/shonanaveraging-eccv/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/shonanaveraging-eccv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SE-Sync: A Certifiably Correct Algorithm for Synchronization over the Special Euclidean Group</title>
+      <link>https://david-m-rosen.github.io/publication/sesync-ijrr/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/sesync-ijrr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Enhancements for Certifiably Correct SLAM</title>
+      <link>https://david-m-rosen.github.io/publication/sesyncenhancements-iros/</link>
+      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/sesyncenhancements-iros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SE-Sync: A Certifiably Correct Algorithm for Synchronization over the Special Euclidean Group</title>
+      <link>https://david-m-rosen.github.io/publication/sesync-techreport/</link>
+      <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/sesync-techreport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Certifiably Correct Algorithm for Synchronization over the Special Euclidean Group</title>
+      <link>https://david-m-rosen.github.io/publication/sesync-wafr/</link>
+      <pubDate>Sun, 18 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/sesync-wafr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

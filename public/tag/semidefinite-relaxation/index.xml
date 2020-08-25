@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>semidefinite relaxation | David M. Rosen</title>
+    <link>https://david-m-rosen.github.io/tag/semidefinite-relaxation/</link>
+      <atom:link href="https://david-m-rosen.github.io/tag/semidefinite-relaxation/index.xml" rel="self" type="application/rss+xml" />
+    <description>semidefinite relaxation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 David M. Rosen</copyright><lastBuildDate>Mon, 25 May 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://david-m-rosen.github.io/images/icon_hu622d6c41af8452549db786cb9e39d510_238833_512x512_fill_lanczos_center_2.png</url>
+      <title>semidefinite relaxation</title>
+      <link>https://david-m-rosen.github.io/tag/semidefinite-relaxation/</link>
+    </image>
+    
+    <item>
+      <title>A Convex Relaxation for Approximate Global Optimization in Simultaneous Localization and Mapping</title>
+      <link>https://david-m-rosen.github.io/publication/approxglobalslam-icra/</link>
+      <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/approxglobalslam-icra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
