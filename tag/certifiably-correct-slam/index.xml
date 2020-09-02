@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>certifiably correct SLAM | David M. Rosen</title>
+    <title>Certifiably correct SLAM | David M. Rosen</title>
     <link>https://david-m-rosen.github.io/tag/certifiably-correct-slam/</link>
       <atom:link href="https://david-m-rosen.github.io/tag/certifiably-correct-slam/index.xml" rel="self" type="application/rss+xml" />
-    <description>certifiably correct SLAM</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 David M. Rosen</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <description>Certifiably correct SLAM</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 David M. Rosen</copyright><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://david-m-rosen.github.io/images/icon_hu622d6c41af8452549db786cb9e39d510_238833_512x512_fill_lanczos_center_2.png</url>
-      <title>certifiably correct SLAM</title>
+      <title>Certifiably correct SLAM</title>
       <link>https://david-m-rosen.github.io/tag/certifiably-correct-slam/</link>
     </image>
+    
+    <item>
+      <title>Distributed Certifiably Correct Pose-Graph Optimization</title>
+      <link>https://david-m-rosen.github.io/publication/dc2-pgo/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/dc2-pgo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SE-Sync: A Certifiably Correct Algorithm for Synchronization over the Special Euclidean Group</title>

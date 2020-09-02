@@ -5,12 +5,20 @@
     <link>https://david-m-rosen.github.io/tag/riemannian-optimization/</link>
       <atom:link href="https://david-m-rosen.github.io/tag/riemannian-optimization/index.xml" rel="self" type="application/rss+xml" />
     <description>Riemannian optimization</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 David M. Rosen</copyright><lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 David M. Rosen</copyright><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://david-m-rosen.github.io/images/icon_hu622d6c41af8452549db786cb9e39d510_238833_512x512_fill_lanczos_center_2.png</url>
       <title>Riemannian optimization</title>
       <link>https://david-m-rosen.github.io/tag/riemannian-optimization/</link>
     </image>
+    
+    <item>
+      <title>Distributed Certifiably Correct Pose-Graph Optimization</title>
+      <link>https://david-m-rosen.github.io/publication/dc2-pgo/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/dc2-pgo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Shonan Rotation Averaging: Global Optimality by Surfing $SO(p)^n$</title>
