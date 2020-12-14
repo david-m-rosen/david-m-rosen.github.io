@@ -1,10 +1,12 @@
-**[25-Aug-2020]** Our new [paper](/publication/dc2-pgo/) presents the first distributed certifiably correct algorithms for pose-graph SLAM and rotation averaging
+**[07-Dec-2020]** I delivered a [talk](https://robotics.utoronto.ca/news/seminar-david-rosen-of-mit-on-an-algorithm-that-is-capable-of-efficiently-recovering-slam-solutions/) on certifiably correct SLAM at the University of Toronto's Robotics Institute Seminar Series
 
-**[16-Jul-2020]** Our [paper](/publication/deeprotationlearning-rss/) on learning to estimate orientations has received the <span style="color:red">Best Student Paper Award</span> at Robotics: Science and Systems (RSS) 2020!
+**[25-Aug-2020]** Our new [paper](/publication/dc2-pgo/) presents the first *distributed* certifiably correct algorithms for pose-graph SLAM and rotation averaging
+
+**[16-Jul-2020]** Our [paper](/publication/deeprotationlearning-rss/) on learning to estimate rotations has received the <span style="color:red">Best Student Paper Award</span> at Robotics: Science and Systems (RSS) 2020!
 
 **[02-Jul-2020]** Our [paper](/publication/shonanaveraging-eccv/) on certifiably correct rotation averaging has been accepted as a <span style="color:red">spotlight talk (top 5%)</span> at the European Conference on Computer Vision (ECCV) 2020!
 
-**[05-May-2020]** New [paper](/publication/deeprotationlearning-rss/) on learning to estimate orientations to appear at Robotics: Science and Systems (RSS) 2020
+**[05-May-2020]** New [paper](/publication/deeprotationlearning-rss/) on learning to estimate rotations to appear at Robotics: Science and Systems (RSS) 2020
 
 **[08-Apr-2020]** New [paper](/publication/lrcp-wafr/) on large-scale low-rank semidefinite programming to appear at the International Workshop on the Algorithmic Foundations of Robotics (WAFR) 2020
 

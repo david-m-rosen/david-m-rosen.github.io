@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | David M. Rosen</title>
+    <title>Talks | David M. Rosen</title>
     <link>https://david-m-rosen.github.io/talk/</link>
       <atom:link href="https://david-m-rosen.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 David M. Rosen</copyright>
+    <description>Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 David M. Rosen</copyright><lastBuildDate>Mon, 07 Dec 2020 13:00:01 -0500</lastBuildDate>
     <image>
       <url>https://david-m-rosen.github.io/images/icon_hu622d6c41af8452549db786cb9e39d510_238833_512x512_fill_lanczos_center_2.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Talks</title>
       <link>https://david-m-rosen.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Certifiably Correct SLAM</title>
+      <link>https://david-m-rosen.github.io/talk/certifiablycorrectslam/</link>
+      <pubDate>Mon, 07 Dec 2020 13:00:01 -0500</pubDate>
+      <guid>https://david-m-rosen.github.io/talk/certifiablycorrectslam/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

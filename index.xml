@@ -5,12 +5,20 @@
     <link>https://david-m-rosen.github.io/</link>
       <atom:link href="https://david-m-rosen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>David M. Rosen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 David M. Rosen</copyright><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 David M. Rosen</copyright><lastBuildDate>Mon, 07 Dec 2020 13:00:01 -0500</lastBuildDate>
     <image>
       <url>https://david-m-rosen.github.io/images/icon_hu622d6c41af8452549db786cb9e39d510_238833_512x512_fill_lanczos_center_2.png</url>
       <title>David M. Rosen</title>
       <link>https://david-m-rosen.github.io/</link>
     </image>
+    
+    <item>
+      <title>Certifiably Correct SLAM</title>
+      <link>https://david-m-rosen.github.io/talk/certifiablycorrectslam/</link>
+      <pubDate>Mon, 07 Dec 2020 13:00:01 -0500</pubDate>
+      <guid>https://david-m-rosen.github.io/talk/certifiablycorrectslam/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Distributed Certifiably Correct Pose-Graph Optimization</title>
@@ -66,10 +74,11 @@
 
 
 
-&lt;p&gt;&lt;strong&gt;[25-Aug-2020]&lt;/strong&gt; Our new &lt;a href=&#34;https://david-m-rosen.github.io/publication/dc2-pgo/&#34;&gt;paper&lt;/a&gt; presents the first distributed certifiably correct algorithms for pose-graph SLAM and rotation averaging&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[16-Jul-2020]&lt;/strong&gt; Our &lt;a href=&#34;https://david-m-rosen.github.io/publication/deeprotationlearning-rss/&#34;&gt;paper&lt;/a&gt; on learning to estimate orientations has received the &lt;span style=&#34;color:red&#34;&gt;Best Student Paper Award&lt;/span&gt; at Robotics: Science and Systems (RSS) 2020!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[07-Dec-2020]&lt;/strong&gt; I delivered a &lt;a href=&#34;https://robotics.utoronto.ca/news/seminar-david-rosen-of-mit-on-an-algorithm-that-is-capable-of-efficiently-recovering-slam-solutions/&#34;&gt;talk&lt;/a&gt; on certifiably correct SLAM at the University of Toronto&amp;rsquo;s Robotics Institute Seminar Series&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[25-Aug-2020]&lt;/strong&gt; Our new &lt;a href=&#34;https://david-m-rosen.github.io/publication/dc2-pgo/&#34;&gt;paper&lt;/a&gt; presents the first &lt;em&gt;distributed&lt;/em&gt; certifiably correct algorithms for pose-graph SLAM and rotation averaging&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[16-Jul-2020]&lt;/strong&gt; Our &lt;a href=&#34;https://david-m-rosen.github.io/publication/deeprotationlearning-rss/&#34;&gt;paper&lt;/a&gt; on learning to estimate rotations has received the &lt;span style=&#34;color:red&#34;&gt;Best Student Paper Award&lt;/span&gt; at Robotics: Science and Systems (RSS) 2020!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[02-Jul-2020]&lt;/strong&gt; Our &lt;a href=&#34;https://david-m-rosen.github.io/publication/shonanaveraging-eccv/&#34;&gt;paper&lt;/a&gt; on certifiably correct rotation averaging has been accepted as a &lt;span style=&#34;color:red&#34;&gt;spotlight talk (top 5%)&lt;/span&gt; at the European Conference on Computer Vision (ECCV) 2020!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[05-May-2020]&lt;/strong&gt; New &lt;a href=&#34;https://david-m-rosen.github.io/publication/deeprotationlearning-rss/&#34;&gt;paper&lt;/a&gt; on learning to estimate orientations to appear at Robotics: Science and Systems (RSS) 2020&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[05-May-2020]&lt;/strong&gt; New &lt;a href=&#34;https://david-m-rosen.github.io/publication/deeprotationlearning-rss/&#34;&gt;paper&lt;/a&gt; on learning to estimate rotations to appear at Robotics: Science and Systems (RSS) 2020&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[08-Apr-2020]&lt;/strong&gt; New &lt;a href=&#34;https://david-m-rosen.github.io/publication/lrcp-wafr/&#34;&gt;paper&lt;/a&gt; on large-scale low-rank semidefinite programming to appear at the International Workshop on the Algorithmic Foundations of Robotics (WAFR) 2020&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[02-Feb-2020]&lt;/strong&gt; New &lt;a href=&#34;https://openaccess.thecvf.com/content_CVPR_2020/html/Chelly_JA-POLS_A_Moving-Camera_Background_Model_via_Joint_Alignment_and_Partially-Overlapping_CVPR_2020_paper.html&#34;&gt;paper&lt;/a&gt; on large-scale background modeling with a moving camera to appear at the Conference on Computer Vision and Pattern Recognition (CVPR) 2020&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[23-Apr-2019]&lt;/strong&gt; I have been selected as an &lt;span style=&#34;color:red&#34;&gt;RSS Pioneer&lt;/span&gt;!&lt;/p&gt;
