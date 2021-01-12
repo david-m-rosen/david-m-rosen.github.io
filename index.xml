@@ -5,7 +5,7 @@
     <link>https://david-m-rosen.github.io/</link>
       <atom:link href="https://david-m-rosen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>David M. Rosen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 David M. Rosen</copyright><lastBuildDate>Mon, 07 Dec 2020 13:00:01 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 David M. Rosen</copyright><lastBuildDate>Mon, 07 Dec 2020 13:00:01 -0500</lastBuildDate>
     <image>
       <url>https://david-m-rosen.github.io/images/icon_hu622d6c41af8452549db786cb9e39d510_238833_512x512_fill_lanczos_center_2.png</url>
       <title>David M. Rosen</title>
@@ -74,6 +74,7 @@
 
 
 
+&lt;p&gt;&lt;strong&gt;[05-Jan-2021]&lt;/strong&gt; Our new &lt;a href=&#34;https://david-m-rosen.github.io/publication/dc2-pgo/&#34;&gt;paper&lt;/a&gt; on distributed certifiably-correct SLAM and rotation averaging will appear in the &lt;em&gt;IEEE Transactions on Robotics&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[07-Dec-2020]&lt;/strong&gt; I delivered a &lt;a href=&#34;https://robotics.utoronto.ca/news/seminar-david-rosen-of-mit-on-an-algorithm-that-is-capable-of-efficiently-recovering-slam-solutions/&#34;&gt;talk&lt;/a&gt; on certifiably correct SLAM at the University of Toronto&amp;rsquo;s &lt;a href=&#34;https://robotics.utoronto.ca/&#34;&gt;Robotics Institute&lt;/a&gt; Seminar Series.  Thanks to &lt;a href=&#34;http://stars.utias.utoronto.ca/~jkelly/&#34;&gt;Jonathan Kelly&lt;/a&gt; for the invitation!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[25-Aug-2020]&lt;/strong&gt; Our new &lt;a href=&#34;https://david-m-rosen.github.io/publication/dc2-pgo/&#34;&gt;paper&lt;/a&gt; presents the first &lt;em&gt;distributed&lt;/em&gt; certifiably correct algorithms for pose-graph SLAM and rotation averaging&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[16-Jul-2020]&lt;/strong&gt; Our &lt;a href=&#34;https://david-m-rosen.github.io/publication/deeprotationlearning-rss/&#34;&gt;paper&lt;/a&gt; on learning to estimate rotations has received the &lt;span style=&#34;color:red&#34;&gt;Best Student Paper Award&lt;/span&gt; at Robotics: Science and Systems (RSS) 2020!&lt;/p&gt;

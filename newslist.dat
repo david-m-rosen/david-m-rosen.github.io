@@ -1,3 +1,5 @@
+**[05-Jan-2021]** Our new [paper](/publication/dc2-pgo/) on distributed certifiably-correct SLAM and rotation averaging will appear in the *IEEE Transactions on Robotics* 
+
 **[07-Dec-2020]** I delivered a [talk](https://robotics.utoronto.ca/news/seminar-david-rosen-of-mit-on-an-algorithm-that-is-capable-of-efficiently-recovering-slam-solutions/) on certifiably correct SLAM at the University of Toronto's [Robotics Institute](https://robotics.utoronto.ca/) Seminar Series.  Thanks to [Jonathan Kelly](http://stars.utias.utoronto.ca/~jkelly/) for the invitation!
 
 **[25-Aug-2020]** Our new [paper](/publication/dc2-pgo/) presents the first *distributed* certifiably correct algorithms for pose-graph SLAM and rotation averaging
