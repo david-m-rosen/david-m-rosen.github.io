@@ -48,6 +48,11 @@
   </url>
   
   <url>
+    <loc>https://david-m-rosen.github.io/tag/deep-learning/</loc>
+    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://david-m-rosen.github.io/author/kevin-j.-doherty/</loc>
     <lastmod>2021-05-06T00:00:00-05:00</lastmod>
   </url>
@@ -79,6 +84,11 @@
   
   <url>
     <loc>https://david-m-rosen.github.io/tags/</loc>
+    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/topological-slam/</loc>
     <lastmod>2021-05-06T00:00:00-05:00</lastmod>
   </url>
   
@@ -194,11 +204,6 @@
   
   <url>
     <loc>https://david-m-rosen.github.io/tag/bayesian-estimation/</loc>
-    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/tag/deep-learning/</loc>
     <lastmod>2020-07-12T00:00:00+00:00</lastmod>
   </url>
   
