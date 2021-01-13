@@ -5,12 +5,20 @@
     <link>https://david-m-rosen.github.io/</link>
       <atom:link href="https://david-m-rosen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>David M. Rosen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 David M. Rosen</copyright><lastBuildDate>Mon, 07 Dec 2020 13:00:01 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 David M. Rosen</copyright><lastBuildDate>Thu, 06 May 2021 00:00:00 -0500</lastBuildDate>
     <image>
       <url>https://david-m-rosen.github.io/images/icon_hu622d6c41af8452549db786cb9e39d510_238833_512x512_fill_lanczos_center_2.png</url>
       <title>David M. Rosen</title>
       <link>https://david-m-rosen.github.io/</link>
     </image>
+    
+    <item>
+      <title>Advances in Inference and Representation for Simultaneous Localization and Mapping</title>
+      <link>https://david-m-rosen.github.io/publication/slam-review/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 -0500</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/slam-review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Certifiably Correct SLAM</title>
@@ -74,6 +82,7 @@
 
 
 
+&lt;p&gt;&lt;strong&gt;[06-Jan-2021]&lt;/strong&gt; Our new &lt;a href=&#34;https://www.annualreviews.org/doi/pdf/10.1146/annurev-control-072720-082553&#34;&gt;review&lt;/a&gt; of recent advances in SLAM is now available online!  Many thanks to &lt;a href=&#34;http://people.csail.mit.edu/kdoherty/&#34;&gt;Kevin Doherty&lt;/a&gt;, &lt;a href=&#34;http://web.mit.edu/teran/www/&#34;&gt;Antonio Teran&lt;/a&gt;, and &lt;a href=&#34;https://marinerobotics.mit.edu/john-j-leonard&#34;&gt;John Leonard&lt;/a&gt; for all of their hard work putting this together!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[05-Jan-2021]&lt;/strong&gt; Our new &lt;a href=&#34;https://david-m-rosen.github.io/publication/dc2-pgo/&#34;&gt;paper&lt;/a&gt; on distributed certifiably-correct SLAM and rotation averaging will appear in the &lt;em&gt;IEEE Transactions on Robotics&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[07-Dec-2020]&lt;/strong&gt; I delivered a &lt;a href=&#34;https://robotics.utoronto.ca/news/seminar-david-rosen-of-mit-on-an-algorithm-that-is-capable-of-efficiently-recovering-slam-solutions/&#34;&gt;talk&lt;/a&gt; on certifiably correct SLAM at the University of Toronto&amp;rsquo;s &lt;a href=&#34;https://robotics.utoronto.ca/&#34;&gt;Robotics Institute&lt;/a&gt; Seminar Series.  Thanks to &lt;a href=&#34;http://stars.utias.utoronto.ca/~jkelly/&#34;&gt;Jonathan Kelly&lt;/a&gt; for the invitation!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[25-Aug-2020]&lt;/strong&gt; Our new &lt;a href=&#34;https://david-m-rosen.github.io/publication/dc2-pgo/&#34;&gt;paper&lt;/a&gt; presents the first &lt;em&gt;distributed&lt;/em&gt; certifiably correct algorithms for pose-graph SLAM and rotation averaging&lt;/p&gt;

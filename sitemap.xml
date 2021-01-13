@@ -3,12 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://david-m-rosen.github.io/talk/certifiablycorrectslam/</loc>
-    <lastmod>2020-12-07T13:00:01-05:00</lastmod>
+    <loc>https://david-m-rosen.github.io/publication-type/2/</loc>
+    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/publication/slam-review/</loc>
+    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/and-john-j.-leonard/</loc>
+    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/antonio-teran-espinoza/</loc>
+    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/authors/</loc>
+    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/certifiable-estimation/</loc>
+    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/certifiably-correct-slam/</loc>
+    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/david-m.-rosen/</loc>
+    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://david-m-rosen.github.io/</loc>
+    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/kevin-j.-doherty/</loc>
+    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/publication_types/</loc>
+    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/publication/</loc>
+    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/robust-estimation/</loc>
+    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/semantic-slam/</loc>
+    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/slam/</loc>
+    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tags/</loc>
+    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/talk/certifiablycorrectslam/</loc>
     <lastmod>2020-12-07T13:00:01-05:00</lastmod>
   </url>
   
@@ -18,27 +93,7 @@
   </url>
   
   <url>
-    <loc>https://david-m-rosen.github.io/publication-type/2/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/authors/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/tag/certifiably-correct-slam/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://david-m-rosen.github.io/tag/convex-relaxation/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/author/david-m.-rosen/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,16 +128,6 @@
   </url>
   
   <url>
-    <loc>https://david-m-rosen.github.io/publication_types/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/publication/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://david-m-rosen.github.io/tag/riemannian-optimization/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
@@ -94,11 +139,6 @@
   
   <url>
     <loc>https://david-m-rosen.github.io/tag/sensor-network-localization/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/tags/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -303,11 +343,6 @@
   </url>
   
   <url>
-    <loc>https://david-m-rosen.github.io/tag/slam/</loc>
-    <lastmod>2015-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://david-m-rosen.github.io/tag/verification/</loc>
     <lastmod>2015-09-25T00:00:00+00:00</lastmod>
   </url>
@@ -374,11 +409,6 @@
   
   <url>
     <loc>https://david-m-rosen.github.io/tag/non-gaussian-estimation/</loc>
-    <lastmod>2013-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/tag/robust-estimation/</loc>
     <lastmod>2013-05-06T00:00:00+00:00</lastmod>
   </url>
   
