@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spectral relaxation | David M. Rosen</title>
+    <link>https://david-m-rosen.github.io/tag/spectral-relaxation/</link>
+      <atom:link href="https://david-m-rosen.github.io/tag/spectral-relaxation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spectral relaxation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 David M. Rosen</copyright><lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://david-m-rosen.github.io/images/icon_hu216fb02aefcf0910c89f5f5e756b3cd5_17752_512x512_fill_lanczos_center_2.png</url>
+      <title>Spectral relaxation</title>
+      <link>https://david-m-rosen.github.io/tag/spectral-relaxation/</link>
+    </image>
+    
+    <item>
+      <title>Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM</title>
+      <link>https://david-m-rosen.github.io/publication/spectralinit/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/spectralinit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

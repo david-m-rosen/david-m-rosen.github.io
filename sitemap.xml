@@ -4,11 +4,186 @@
   
   <url>
     <loc>https://david-m-rosen.github.io/publication-type/2/</loc>
-    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://david-m-rosen.github.io/publication/slam-review/</loc>
+    <loc>https://david-m-rosen.github.io/authors/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/publication/cidgik/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/convex-relaxation/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/david-m.-rosen/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/distance-geometry/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/filip-maric/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/inverse-kinematics/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/ivan-petrovic/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/jonathan-kelly/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/matthew-giamou/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/nicholas-roy/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/publication_types/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/publication/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/semidefinite-relaxation/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tags/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/valentin-peretroukhin/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/publication-type/1/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/initialization/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/john-j.-leonard/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/kevin-doherty/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/publication/spectralinit/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/pose-graph-slam/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/rotation-averaging/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/spectral-relaxation/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/certifiably-correct-slam/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/publication/dc2-pgo/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/distributed-optimization/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/global-optimization/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/jonathan-p.-how/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/kasra-khosoussi/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/riemannian-optimization/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/semidefinite-programming/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/sensor-network-localization/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/yulun-tian/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/publication/arcras-slam-review/</loc>
     <lastmod>2021-05-06T00:00:00-05:00</lastmod>
   </url>
   
@@ -23,27 +198,7 @@
   </url>
   
   <url>
-    <loc>https://david-m-rosen.github.io/authors/</loc>
-    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://david-m-rosen.github.io/tag/certifiable-estimation/</loc>
-    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/tag/certifiably-correct-slam/</loc>
-    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/author/david-m.-rosen/</loc>
-    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/</loc>
     <lastmod>2021-05-06T00:00:00-05:00</lastmod>
   </url>
   
@@ -54,16 +209,6 @@
   
   <url>
     <loc>https://david-m-rosen.github.io/author/kevin-j.-doherty/</loc>
-    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/publication_types/</loc>
-    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/publication/</loc>
     <lastmod>2021-05-06T00:00:00-05:00</lastmod>
   </url>
   
@@ -83,11 +228,6 @@
   </url>
   
   <url>
-    <loc>https://david-m-rosen.github.io/tags/</loc>
-    <lastmod>2021-05-06T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://david-m-rosen.github.io/tag/topological-slam/</loc>
     <lastmod>2021-05-06T00:00:00-05:00</lastmod>
   </url>
@@ -100,66 +240,6 @@
   <url>
     <loc>https://david-m-rosen.github.io/talk/</loc>
     <lastmod>2020-12-07T13:00:01-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/tag/convex-relaxation/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/publication/dc2-pgo/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/tag/distributed-optimization/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/tag/global-optimization/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/author/jonathan-p.-how/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/author/kasra-khosoussi/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/tag/pose-graph-slam/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/tag/riemannian-optimization/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/tag/semidefinite-programming/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/tag/sensor-network-localization/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/author/yulun-tian/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/publication-type/1/</loc>
-    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -208,27 +288,7 @@
   </url>
   
   <url>
-    <loc>https://david-m-rosen.github.io/author/jonathan-kelly/</loc>
-    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/author/matthew-giamou/</loc>
-    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/author/nicholas-roy/</loc>
-    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://david-m-rosen.github.io/tag/rotation-estimation/</loc>
-    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/author/valentin-peretroukhin/</loc>
     <lastmod>2020-07-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -254,11 +314,6 @@
   
   <url>
     <loc>https://david-m-rosen.github.io/author/afonso-s.-bandeira/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/author/john-j.-leonard/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -369,11 +424,6 @@
   
   <url>
     <loc>https://david-m-rosen.github.io/author/charles-duhadway/</loc>
-    <lastmod>2015-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/tag/semidefinite-relaxation/</loc>
     <lastmod>2015-05-25T00:00:00+00:00</lastmod>
   </url>
   

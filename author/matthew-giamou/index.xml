@@ -5,12 +5,20 @@
     <link>https://david-m-rosen.github.io/author/matthew-giamou/</link>
       <atom:link href="https://david-m-rosen.github.io/author/matthew-giamou/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthew Giamou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 David M. Rosen</copyright><lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 David M. Rosen</copyright><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://david-m-rosen.github.io/images/icon_hu622d6c41af8452549db786cb9e39d510_238833_512x512_fill_lanczos_center_2.png</url>
+      <url>https://david-m-rosen.github.io/images/icon_hu216fb02aefcf0910c89f5f5e756b3cd5_17752_512x512_fill_lanczos_center_2.png</url>
       <title>Matthew Giamou</title>
       <link>https://david-m-rosen.github.io/author/matthew-giamou/</link>
     </image>
+    
+    <item>
+      <title>Convex Iteration for Distance-Geometric Inverse Kinematics</title>
+      <link>https://david-m-rosen.github.io/publication/cidgik/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/cidgik/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Smooth Representation of Belief over SO(3) for Deep Rotation Learning with Uncertainty</title>
