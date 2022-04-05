@@ -1,6 +1,10 @@
+**[25-Mar-2022]**  Our new [paper](publication/spectralsparsification-iros/) applies a combination of spectral graph theory and convex relaxation to derive a simple, efficient, and information-theoretically sound method for compressing pose-graph representations of the SLAM problem.  Congrats to lead author [Kevin Doherty](https://people.csail.mit.edu/kdoherty/) for a **very** cool piece of work :-)!
+
+**[2-Mar-2022]** Our new [paper](publication/larpg-iros/) presents the first distributed optimization algorithm with *lazy communication* for solving large-scale collaborative geometric estimation problems on arbitrary Riemannian manifolds.  Congrats to lead author [Yulun Tian](https://www.tianyulun.com/) for a very nice piece of work :-)!
+
 **[2-Feb-2022]**  I am an Associate Editor for [IROS 2022](https://iros2022.org/).  Looking forward to seeing some outstanding presentations in Kyoto this year -- send us your very best work!
 
-**[31-Jan-2022]** Our new [paper](publication/spectralinit/) on performance guarantees for spectral relaxations of pose-graph SLAM and rotation averaging will appear at [ICRA 2022](https://www.icra2022.org/)!  Congrats to lead author [Kevin Doherty](https://people.csail.mit.edu/kdoherty/) for a very cool piece of work :-)
+**[31-Jan-2022]** Our new [paper](publication/spectralinit-icra/) on performance guarantees for spectral relaxations of pose-graph SLAM and rotation averaging will appear at [ICRA 2022](https://www.icra2022.org/)!  Congrats to lead author [Kevin Doherty](https://people.csail.mit.edu/kdoherty/) for a very cool piece of work :-)
 
 **[28-Jan-2022]** The [SE-Sync library](https://github.com/david-m-rosen/SE-Sync) is now even easier to use thanks to some new Python bindings!  Check out this Jupyter [notebook](https://github.com/david-m-rosen/SE-Sync/blob/master/C%2B%2B/examples/PySESync.ipynb) for a minimal working example.
 

@@ -5,7 +5,7 @@
     <link>https://david-m-rosen.github.io/author/kevin-doherty/</link>
       <atom:link href="https://david-m-rosen.github.io/author/kevin-doherty/index.xml" rel="self" type="application/rss+xml" />
     <description>Kevin Doherty</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 David M. Rosen</copyright><lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 David M. Rosen</copyright><lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://david-m-rosen.github.io/images/icon_hu216fb02aefcf0910c89f5f5e756b3cd5_17752_512x512_fill_lanczos_center_2.png</url>
       <title>Kevin Doherty</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Spectral Measurement Sparsification for Pose-Graph SLAM</title>
+      <link>https://david-m-rosen.github.io/publication/spectralsparsification-iros/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/spectralsparsification-iros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM</title>
-      <link>https://david-m-rosen.github.io/publication/spectralinit/</link>
+      <link>https://david-m-rosen.github.io/publication/spectralinit-icra/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://david-m-rosen.github.io/publication/spectralinit/</guid>
+      <guid>https://david-m-rosen.github.io/publication/spectralinit-icra/</guid>
       <description></description>
     </item>
     

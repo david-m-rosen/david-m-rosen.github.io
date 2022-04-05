@@ -93,6 +93,91 @@
   </url>
   
   <url>
+    <loc>https://david-m-rosen.github.io/publication-type/3/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/algebraic-connectivity/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/john-j.-leonard/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/kevin-doherty/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/pose-graph-slam/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/sparsification/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/spectral-approximation/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/publication/spectralsparsification-iros/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/alec-koppel/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/amrit-singh-bedi/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/collaborative-geometric-estimation/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/publication/larpg-iros/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/jonathan-p.-how/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/lazy-communication/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/miguel-calvo-fullana/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/tag/riemannian-optimization/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david-m-rosen.github.io/author/yulun-tian/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://david-m-rosen.github.io/publication-type/1/</loc>
     <lastmod>2022-01-11T00:00:00+00:00</lastmod>
   </url>
@@ -103,22 +188,7 @@
   </url>
   
   <url>
-    <loc>https://david-m-rosen.github.io/author/john-j.-leonard/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/author/kevin-doherty/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/publication/spectralinit/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/tag/pose-graph-slam/</loc>
+    <loc>https://david-m-rosen.github.io/publication/spectralinit-icra/</loc>
     <lastmod>2022-01-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -153,17 +223,7 @@
   </url>
   
   <url>
-    <loc>https://david-m-rosen.github.io/author/jonathan-p.-how/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://david-m-rosen.github.io/author/kasra-khosoussi/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/tag/riemannian-optimization/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -174,11 +234,6 @@
   
   <url>
     <loc>https://david-m-rosen.github.io/tag/sensor-network-localization/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://david-m-rosen.github.io/author/yulun-tian/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   

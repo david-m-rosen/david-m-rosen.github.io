@@ -21,10 +21,26 @@
     </item>
     
     <item>
+      <title>Spectral Measurement Sparsification for Pose-Graph SLAM</title>
+      <link>https://david-m-rosen.github.io/publication/spectralsparsification-iros/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/spectralsparsification-iros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation</title>
+      <link>https://david-m-rosen.github.io/publication/larpg-iros/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/larpg-iros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM</title>
-      <link>https://david-m-rosen.github.io/publication/spectralinit/</link>
+      <link>https://david-m-rosen.github.io/publication/spectralinit-icra/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://david-m-rosen.github.io/publication/spectralinit/</guid>
+      <guid>https://david-m-rosen.github.io/publication/spectralinit-icra/</guid>
       <description></description>
     </item>
     
@@ -98,8 +114,10 @@
 
 
 
+&lt;p&gt;&lt;strong&gt;[25-Mar-2022]&lt;/strong&gt;  Our new &lt;a href=&#34;publication/spectralsparsification-iros/&#34;&gt;paper&lt;/a&gt; applies a combination of spectral graph theory and convex relaxation to derive a simple, efficient, and information-theoretically sound method for compressing pose-graph representations of the SLAM problem.  Congrats to lead author &lt;a href=&#34;https://people.csail.mit.edu/kdoherty/&#34;&gt;Kevin Doherty&lt;/a&gt; for a &lt;strong&gt;very&lt;/strong&gt; cool piece of work :-)!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[2-Mar-2022]&lt;/strong&gt; Our new &lt;a href=&#34;publication/larpg-iros/&#34;&gt;paper&lt;/a&gt; presents the first distributed optimization algorithm with &lt;em&gt;lazy communication&lt;/em&gt; for solving large-scale collaborative geometric estimation problems on arbitrary Riemannian manifolds.  Congrats to lead author &lt;a href=&#34;https://www.tianyulun.com/&#34;&gt;Yulun Tian&lt;/a&gt; for a very nice piece of work :-)!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[2-Feb-2022]&lt;/strong&gt;  I am an Associate Editor for &lt;a href=&#34;https://iros2022.org/&#34;&gt;IROS 2022&lt;/a&gt;.  Looking forward to seeing some outstanding presentations in Kyoto this year &amp;ndash; send us your very best work!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[31-Jan-2022]&lt;/strong&gt; Our new &lt;a href=&#34;publication/spectralinit/&#34;&gt;paper&lt;/a&gt; on performance guarantees for spectral relaxations of pose-graph SLAM and rotation averaging will appear at &lt;a href=&#34;https://www.icra2022.org/&#34;&gt;ICRA 2022&lt;/a&gt;!  Congrats to lead author &lt;a href=&#34;https://people.csail.mit.edu/kdoherty/&#34;&gt;Kevin Doherty&lt;/a&gt; for a very cool piece of work :-)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[31-Jan-2022]&lt;/strong&gt; Our new &lt;a href=&#34;publication/spectralinit-icra/&#34;&gt;paper&lt;/a&gt; on performance guarantees for spectral relaxations of pose-graph SLAM and rotation averaging will appear at &lt;a href=&#34;https://www.icra2022.org/&#34;&gt;ICRA 2022&lt;/a&gt;!  Congrats to lead author &lt;a href=&#34;https://people.csail.mit.edu/kdoherty/&#34;&gt;Kevin Doherty&lt;/a&gt; for a very cool piece of work :-)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[28-Jan-2022]&lt;/strong&gt; The &lt;a href=&#34;https://github.com/david-m-rosen/SE-Sync&#34;&gt;SE-Sync library&lt;/a&gt; is now even easier to use thanks to some new Python bindings!  Check out this Jupyter &lt;a href=&#34;https://github.com/david-m-rosen/SE-Sync/blob/master/C%2B%2B/examples/PySESync.ipynb&#34;&gt;notebook&lt;/a&gt; for a minimal working example.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[5-Jan-2022]&lt;/strong&gt;  Our new RA-L &lt;a href=&#34;https://david-m-rosen.github.io/publication/cidgik&#34;&gt;paper&lt;/a&gt; describes how challenging inverse kinematics problems for highly-redundant manipulators can be efficiently and reliably solved through a clever combination of problem reformulation and convex relaxation.  Kudos to lead authors &lt;a href=&#34;https://mattgiamou.ca/&#34;&gt;Matt Giamou&lt;/a&gt; and &lt;a href=&#34;https://filipmrc.github.io/&#34;&gt;Filip Maric&lt;/a&gt; for a very nice piece of work :-)!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[10-Dec-2021]&lt;/strong&gt; I delivered a &lt;a href=&#34;https://www.polyu.edu.hk/aae/news-and-events/event/2021/12/10---research-seminar/&#34;&gt;talk&lt;/a&gt; on certifiably correct machine perception at Hong Kong Polytechnic University&amp;rsquo;s Department of Aeronautical and Aviation Engineering (&lt;a href=&#34;https://www.polyu.edu.hk/aae/&#34;&gt;AAE&lt;/a&gt;) Seminar Series.  Thanks to &lt;a href=&#34;https://www.polyu.edu.hk/en/aae/people/academic-staff/dr-weisong-wen/&#34;&gt;Weisong Wen&lt;/a&gt; for the invitation!&lt;/p&gt;

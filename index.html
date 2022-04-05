@@ -1,4 +1,5 @@
-<!DOCTYPE html><html lang="en-us" >
+<!DOCTYPE html>
+<html lang="en-us" >
 
 <head>
 
@@ -781,7 +782,7 @@
     
     
 
-    <p>I am an Assistant Professor in the Departments of Electrical &amp; Computer Engineering (<a href="https://ece.northeastern.edu/">ECE</a>) and <a href="https://cos.northeastern.edu/mathematics/">Mathematics</a> at Northeastern University.</p>
+    <p>I am an Assistant Professor in the Departments of Electrical &amp; Computer Engineering (<a href="https://ece.northeastern.edu/">ECE</a>) and <a href="https://cos.northeastern.edu/mathematics/">Mathematics</a> and the Khoury College of <a href="https://www.khoury.northeastern.edu/">Computer Sciences</a> (by courtesy) at Northeastern University.</p>
 <p>I am broadly interested in the <strong>mathematical and algorithmic foundations of reliable autonomy</strong>.   My research applies tools from nonlinear optimization, differential geometry and topology, abstract algebra, probability and statistics, and machine learning to design <em>principled</em>, <em>computationally efficient</em>, and <em>provably robust</em> algorithms for <strong>machine perception and control</strong>.</p>
 <p>A major focus of my research is the design of practical estimation and control algorithms for nonlinear systems that provide <strong>explicit performance guarantees</strong> in
 real-world operation.  To that end, much of my recent work has explored the use of <em>convex relaxation</em> to efficiently recover <em>provably-good approximate solutions</em> to generally-intractable estimation problems.  Check out our recent <a href="https://www.annualreviews.org/doi/full/10.1146/annurev-control-072720-082553">survey article</a> if you&rsquo;d like to know more about this class of <strong>certifiable estimation methods</strong>.</p>
@@ -902,11 +903,11 @@ real-world operation.  To that end, much of my recent work has explored the use 
 
 
 
+<p><strong>[25-Mar-2022]</strong>  Our new <a href="publication/spectralsparsification-iros/">paper</a> applies a combination of spectral graph theory and convex relaxation to derive a simple, efficient, and information-theoretically sound method for compressing pose-graph representations of the SLAM problem.  Congrats to lead author <a href="https://people.csail.mit.edu/kdoherty/">Kevin Doherty</a> for a <strong>very</strong> cool piece of work :-)!</p>
+<p><strong>[2-Mar-2022]</strong> Our new <a href="publication/larpg-iros/">paper</a> presents the first distributed optimization algorithm with <em>lazy communication</em> for solving large-scale collaborative geometric estimation problems on arbitrary Riemannian manifolds.  Congrats to lead author <a href="https://www.tianyulun.com/">Yulun Tian</a> for a very nice piece of work :-)!</p>
 <p><strong>[2-Feb-2022]</strong>  I am an Associate Editor for <a href="https://iros2022.org/">IROS 2022</a>.  Looking forward to seeing some outstanding presentations in Kyoto this year &ndash; send us your very best work!</p>
-<p><strong>[31-Jan-2022]</strong> Our new <a href="publication/spectralinit/">paper</a> on performance guarantees for spectral relaxations of pose-graph SLAM and rotation averaging will appear at <a href="https://www.icra2022.org/">ICRA 2022</a>!  Congrats to lead author <a href="https://people.csail.mit.edu/kdoherty/">Kevin Doherty</a> for a very cool piece of work :-)</p>
+<p><strong>[31-Jan-2022]</strong> Our new <a href="publication/spectralinit-icra/">paper</a> on performance guarantees for spectral relaxations of pose-graph SLAM and rotation averaging will appear at <a href="https://www.icra2022.org/">ICRA 2022</a>!  Congrats to lead author <a href="https://people.csail.mit.edu/kdoherty/">Kevin Doherty</a> for a very cool piece of work :-)</p>
 <p><strong>[28-Jan-2022]</strong> The <a href="https://github.com/david-m-rosen/SE-Sync">SE-Sync library</a> is now even easier to use thanks to some new Python bindings!  Check out this Jupyter <a href="https://github.com/david-m-rosen/SE-Sync/blob/master/C%2B%2B/examples/PySESync.ipynb">notebook</a> for a minimal working example.</p>
-<p><strong>[5-Jan-2022]</strong>  Our new RA-L <a href="/publication/cidgik">paper</a> describes how challenging inverse kinematics problems for highly-redundant manipulators can be efficiently and reliably solved through a clever combination of problem reformulation and convex relaxation.  Kudos to lead authors <a href="https://mattgiamou.ca/">Matt Giamou</a> and <a href="https://filipmrc.github.io/">Filip Maric</a> for a very nice piece of work :-)!</p>
-<p><strong>[10-Dec-2021]</strong> I delivered a <a href="https://www.polyu.edu.hk/aae/news-and-events/event/2021/12/10---research-seminar/">talk</a> on certifiably correct machine perception at Hong Kong Polytechnic University&rsquo;s Department of Aeronautical and Aviation Engineering (<a href="https://www.polyu.edu.hk/aae/">AAE</a>) Seminar Series.  Thanks to <a href="https://www.polyu.edu.hk/en/aae/people/academic-staff/dr-weisong-wen/">Weisong Wen</a> for the invitation!</p>
 
 <p>
 <a href="/news">All news&raquo;</a></p>
@@ -1139,11 +1140,119 @@ real-world operation.  To that end, much of my recent work has explored the use 
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/spectralinit/" >Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM</a>
+      <a href="/publication/larpg-iros/" >Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation</a>
     </h3>
 
     
-    <a href="/publication/spectralinit/" class="summary-link">
+    <a href="/publication/larpg-iros/" class="summary-link">
+      <div class="article-style">
+        The first distributed optimization algorithm with <em>lazy communication</em> for large-scale collaborative geometric estimation.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  
+  <span >Yulun Tian</span>, <span >Amrit Singh Bedi</span>, <span >Alec Koppel</span>, <span >Miguel Calvo-Fullana</span>, <span >David M. Rosen</span>, <span >Jonathan P. How</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2203.00851" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/larpg-iros/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/larpg-iros/" >
+      <img src="/publication/larpg-iros/featured_hudbb7162cd5c67f74a2b5ca937fc61bc2_332154_150x0_resize_lanczos_2.png" alt="Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/spectralinit-icra/" >Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM</a>
+    </h3>
+
+    
+    <a href="/publication/spectralinit-icra/" class="summary-link">
       <div class="article-style">
         The first initialization algorithms for pose-graph SLAM and rotation averaging with <em>explicit performance guarantees</em>.
       </div>
@@ -1188,7 +1297,7 @@ real-world operation.  To that end, much of my recent work has explored the use 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/spectralinit/cite.bib">
+        data-filename="/publication/spectralinit-icra/cite.bib">
   Cite
 </button>
 
@@ -1214,8 +1323,8 @@ real-world operation.  To that end, much of my recent work has explored the use 
     
     
     
-    <a href="/publication/spectralinit/" >
-      <img src="/publication/spectralinit/featured_hu610ce3e5226834f837a91ae8a849c9d8_6217664_150x0_resize_lanczos_2.png" alt="Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM">
+    <a href="/publication/spectralinit-icra/" >
+      <img src="/publication/spectralinit-icra/featured_hu610ce3e5226834f837a91ae8a849c9d8_6217664_150x0_resize_lanczos_2.png" alt="Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM">
     </a>
     
   </div>
