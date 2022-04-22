@@ -1,3 +1,7 @@
+**[13-Apr-2022]** I delivered a talk on certifiably correct machine perception at Worcester Polytechnic Institute's Data Science Colloquium.  Thanks to [Oren Mangoubi](https://www.orenmangoubi.com/) for the invitation!
+
+**[12-Apr-2022]** I delivered a talk on certifiably correct machine perception at Northeastern University's Applied and Interdisciplinary Mathematics ([AIMS](https://web.northeastern.edu/mcowen/AIMseminar.html)) Seminar.  Thanks to [Christopher King](https://cos.northeastern.edu/people/christopher-king/) for the invitation!
+
 **[25-Mar-2022]**  Our new [paper](publication/spectralsparsification-iros/) applies a combination of spectral graph theory and convex relaxation to derive a simple, efficient, and information-theoretically sound method for compressing pose-graph representations of the SLAM problem.  Congrats to lead author [Kevin Doherty](https://people.csail.mit.edu/kdoherty/) for a **very** cool piece of work :-)!
 
 **[2-Mar-2022]** Our new [paper](publication/larpg-iros/) presents the first distributed optimization algorithm with *lazy communication* for solving large-scale collaborative geometric estimation problems on arbitrary Riemannian manifolds.  Congrats to lead author [Yulun Tian](https://www.tianyulun.com/) for a very nice piece of work :-)!
