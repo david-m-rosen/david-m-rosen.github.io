@@ -1,6 +1,8 @@
+**[19-Apr-2022]** Our [paper](publication/dc2-pgo) on distributed certifiably correct SLAM has been recognized with an Honorable Mention for the *IEEE Transactions on Robotics*'s [King-Sun Fu Memorial Best Paper Award](https://www.ieee-ras.org/publications/t-ro)!  Thanks again to fantastic collaborators [Kasra Khosoussi](https://www.mit.edu/~mrrobot/), [Jonathan How](https://www.mit.edu/~jhow/), and especially lead author [Yulun Tian](https://www.tianyulun.com/) for all of their hard work on this project, and to the T-RO editorial staff for their kind consideration :-).
+
 **[13-Apr-2022]** I delivered a talk on certifiably correct machine perception at Worcester Polytechnic Institute's Data Science Colloquium.  Thanks to [Oren Mangoubi](https://www.orenmangoubi.com/) for the invitation!
 
-**[12-Apr-2022]** I delivered a talk on certifiably correct machine perception at Northeastern University's Applied and Interdisciplinary Mathematics ([AIMS](https://web.northeastern.edu/mcowen/AIMseminar.html)) Seminar.  Thanks to [Christopher King](https://cos.northeastern.edu/people/christopher-king/) for the invitation!
+**[12-Apr-2022]** I delivered a talk on certifiably correct machine perception at Northeastern University's Applied and Interdisciplinary Mathematics ([AIMS](https://web.northeastern.edu/mcowen/AIMseminar.html)) Seminar.  Thanks to [Christopher King](https://web.northeastern.edu/chrisking/) for the invitation!
 
 **[25-Mar-2022]**  Our new [paper](publication/spectralsparsification-iros/) applies a combination of spectral graph theory and convex relaxation to derive a simple, efficient, and information-theoretically sound method for compressing pose-graph representations of the SLAM problem.  Congrats to lead author [Kevin Doherty](https://people.csail.mit.edu/kdoherty/) for a **very** cool piece of work :-)!
 
