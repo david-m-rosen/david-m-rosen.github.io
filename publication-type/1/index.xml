@@ -5,12 +5,28 @@
     <link>https://david-m-rosen.github.io/publication-type/1/</link>
       <atom:link href="https://david-m-rosen.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 David M. Rosen</copyright><lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 David M. Rosen</copyright><lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://david-m-rosen.github.io/images/icon_hu7e2761efb3c44adaa07cc24d40f754ce_13780_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://david-m-rosen.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Spectral Measurement Sparsification for Pose-Graph SLAM</title>
+      <link>https://david-m-rosen.github.io/publication/spectralsparsification-iros/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/spectralsparsification-iros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation</title>
+      <link>https://david-m-rosen.github.io/publication/larpg-iros/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/larpg-iros/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM</title>
