@@ -5,12 +5,28 @@
     <link>https://david-m-rosen.github.io/</link>
       <atom:link href="https://david-m-rosen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>David M. Rosen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 David M. Rosen</copyright><lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 David M. Rosen</copyright><lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://david-m-rosen.github.io/images/icon_hu7e2761efb3c44adaa07cc24d40f754ce_13780_512x512_fill_lanczos_center_3.png</url>
       <title>David M. Rosen</title>
       <link>https://david-m-rosen.github.io/</link>
     </image>
+    
+    <item>
+      <title>Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows</title>
+      <link>https://david-m-rosen.github.io/publication/nf-isam/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/nf-isam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCORE:  A Second-Order Conic Initialization for Range-Aided SLAM</title>
+      <link>https://david-m-rosen.github.io/publication/score/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/score/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Accelerating Certifiable Estimation with Preconditioned Eigensolvers</title>
@@ -122,6 +138,10 @@
 
 
 
+&lt;p&gt;&lt;strong&gt;[14-Sep-2022]&lt;/strong&gt; Our new &lt;a href=&#34;https://david-m-rosen.github.io/publication/score/SCORE.pdf&#34;&gt;paper&lt;/a&gt; presents the first convex relaxation for the general multi-robot range-aided SLAM (RA-SLAM) problem.  We show how to reformulate RA-SLAM as a quadratically-constrained quadratic program (QCQP), which can then be relaxed to a second-order cone program (SOCP).  Experimental evaluation demonstrates that this convex relaxation strategy enables the recovery of high-quality solutions on very challenging single- and multi-robot RA-SLAM problems involving thousands of poses and range measurements.  Congrats to lead author &lt;a href=&#34;https://alanpapalia.github.io/&#34;&gt;Alan Papalia&lt;/a&gt; for this very cool piece of work :-)!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[14-Sep-2022]&lt;/strong&gt; Our new &lt;a href=&#34;https://david-m-rosen.github.io/publication/nf-isam/&#34;&gt;paper&lt;/a&gt; describes a computationally-tractable method for approximating the &lt;em&gt;full&lt;/em&gt; Bayesian posterior distribution in challenging high-dimensional, nonlinear, and non-Gaussian inference problems.  Congrats to lead author &lt;a href=&#34;https://scholar.google.com/citations?user=U7ueZ7oAAAAJ&amp;amp;hl=en&#34;&gt;Chad Huang&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[13-Sep-2022]&lt;/strong&gt; I delivered the first installment of this year&amp;rsquo;s &lt;a href=&#34;https://sites.google.com/view/math-8450-fall-22/home&#34;&gt;Research Seminar in Mathematics&lt;/a&gt; at Northeastern University, and had a great time talking math + robots / AI with our aspiring young mathematicians :-).  Many thanks to &lt;a href=&#34;https://cos.northeastern.edu/people/jonathan-weitsman/&#34;&gt;Jonathan Weitsman&lt;/a&gt; for the invitation to speak!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[24-Aug-2022]&lt;/strong&gt; I delivered a short talk on synergies between probability, optimization, and estimation &amp;amp; machine learning as part of this year&amp;rsquo;s annual &lt;a href=&#34;https://www.clevrai.org/&#34;&gt;CLEVR-AI MURI&lt;/a&gt; meeting.  Many thanks to &lt;a href=&#34;https://coe.northeastern.edu/people/sznaier-mario/&#34;&gt;Mario Sznaier&lt;/a&gt; for the invitation to speak at this fantastic workshop :-)!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[18-Jul-2022]&lt;/strong&gt; The &lt;a href=&#34;https://github.com/david-m-rosen/SE-Sync&#34;&gt;SE-Sync library&lt;/a&gt; is now faster and more robust, thanks to the computational enhancements described in our latest &lt;a href=&#34;https://david-m-rosen.github.io/publication/fast-verification/&#34;&gt;paper&lt;/a&gt;.  This latest update also includes some new &lt;a href=&#34;https://github.com/david-m-rosen/SE-Sync/blob/master/C%2B%2B/examples/PySESync.ipynb&#34;&gt;visualizations&lt;/a&gt; of the optimization process  that I think are pretty neat :-).  Check it out!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[12-Jul-2022]&lt;/strong&gt; Our new &lt;a href=&#34;https://david-m-rosen.github.io/publication/fast-verification/&#34;&gt;paper&lt;/a&gt; shows how to enhance the numerical speed and robustness of certifiable estimation methods using preconditioned eigensolvers.**&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[30-Jun-2022]&lt;/strong&gt; Two papers accepted to &lt;a href=&#34;https://iros2022.org/&#34;&gt;IROS 2022&lt;/a&gt;!  Our work on &lt;a href=&#34;https://david-m-rosen.github.io/publication/spectralsparsification-iros/&#34;&gt;spectral sparsification&lt;/a&gt; applies spectral graph theory to devise a principled (and very fast!) approach to pose-graph compression while preserving the accuracy of estimated robot poses, while our work on &lt;a href=&#34;https://david-m-rosen.github.io/publication/larpg-iros/&#34;&gt;distributed Riemannian optimization&lt;/a&gt; provides a scalable &lt;em&gt;communication-efficient&lt;/em&gt; approach to collaborative geometric estimation.  Congrats to lead authors &lt;a href=&#34;https://people.csail.mit.edu/kdoherty/&#34;&gt;Kevin Doherty&lt;/a&gt; and &lt;a href=&#34;https://www.tianyulun.com/&#34;&gt;Yulun Tian&lt;/a&gt;!&lt;/p&gt;
