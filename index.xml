@@ -5,12 +5,20 @@
     <link>https://david-m-rosen.github.io/</link>
       <atom:link href="https://david-m-rosen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>David M. Rosen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 David M. Rosen</copyright><lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 David M. Rosen</copyright><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://david-m-rosen.github.io/images/icon_hu7e2761efb3c44adaa07cc24d40f754ce_13780_512x512_fill_lanczos_center_3.png</url>
       <title>David M. Rosen</title>
       <link>https://david-m-rosen.github.io/</link>
     </image>
+    
+    <item>
+      <title>Accelerating Certifiable Estimation with Preconditioned Eigensolvers</title>
+      <link>https://david-m-rosen.github.io/publication/fast-verification/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/fast-verification/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows</title>
@@ -25,14 +33,6 @@
       <link>https://david-m-rosen.github.io/publication/score/</link>
       <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://david-m-rosen.github.io/publication/score/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Accelerating Certifiable Estimation with Preconditioned Eigensolvers</title>
-      <link>https://david-m-rosen.github.io/publication/fast-verification/</link>
-      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://david-m-rosen.github.io/publication/fast-verification/</guid>
       <description></description>
     </item>
     
@@ -138,6 +138,9 @@
 
 
 
+&lt;p&gt;&lt;strong&gt;[13-Dec-2022]&lt;/strong&gt; My research group has a new &lt;a href=&#34;https://neural.lab.northeastern.edu&#34;&gt;website&lt;/a&gt;!  Check it out for all the latest and greatest news on trustworthy autonomy :-).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[7-Dec-2022]&lt;/strong&gt; My research group has been awarded a new grant from &lt;a href=&#34;https://www.tri.global/&#34;&gt;Toyota Research Institute&lt;/a&gt; to develop novel perception and learning methods for high-agility autonomous driving!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[18-Oct-2022]&lt;/strong&gt;  Our &lt;a href=&#34;https://david-m-rosen.github.io/publication/fast-verification/&#34;&gt;paper&lt;/a&gt; on fast verification for certifiable estimation has been accepted to the &lt;em&gt;IEEE Robotics and Automation Letters&lt;/em&gt;!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[8-Oct-2022]&lt;/strong&gt; I delivered a keynote on our group&amp;rsquo;s work on certifiable machine perception in the workshop on &amp;ldquo;Safe and Certifiable Navigation and Control for Intelligent Vehicles in Complex Urban Scenarios&amp;rdquo; at this year&amp;rsquo;s IEEE International Conference on Intelligent Transportation Systems (&lt;a href=&#34;https://www.ieee-itsc2022.org/#/&#34;&gt;ITSC&lt;/a&gt;).  I very much enjoyed the lively discussion, as well as the opportunity to hear all about the great work being done in this area.  Thanks to the organizers for assembling a fantastic series of talks (and also mine ;-P), and in particular to &lt;a href=&#34;https://weisongwen.github.io/&#34;&gt;Dr. Weisong Wen&lt;/a&gt; for the invitation to speak.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[6-Oct-2022]&lt;/strong&gt; We presented some of our group&amp;rsquo;s work at Northeastern&amp;rsquo;s Showcase of Opportunities for Undergraduate Research and Creative Endeavor &lt;a href=&#34;https://undergraduate.northeastern.edu/research/event/source-the-showcase-of-opportunities-for-undergraduate-research-and-creative-endeavor/&#34;&gt;SOURCE&lt;/a&gt; conference.  Had a great time discussing math, computation, and robots with some of NEU&amp;rsquo;s aspiring young scholars :-)!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[14-Sep-2022]&lt;/strong&gt; Our new &lt;a href=&#34;https://david-m-rosen.github.io/publication/score/SCORE.pdf&#34;&gt;paper&lt;/a&gt; presents the first convex relaxation for the general multi-robot range-aided SLAM (RA-SLAM) problem.  We show how to reformulate RA-SLAM as a quadratically-constrained quadratic program (QCQP), which can then be relaxed to a second-order cone program (SOCP).  Experimental evaluation demonstrates that this convex relaxation strategy enables the recovery of high-quality solutions on very challenging single- and multi-robot RA-SLAM problems involving thousands of poses and range measurements.  Congrats to lead author &lt;a href=&#34;https://alanpapalia.github.io/&#34;&gt;Alan Papalia&lt;/a&gt; for this very cool piece of work :-)!&lt;/p&gt;
