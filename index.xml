@@ -5,7 +5,7 @@
     <link>https://david-m-rosen.github.io/</link>
       <atom:link href="https://david-m-rosen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>David M. Rosen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 David M. Rosen</copyright><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 David M. Rosen</copyright><lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://david-m-rosen.github.io/images/icon_hu7e2761efb3c44adaa07cc24d40f754ce_13780_512x512_fill_lanczos_center_3.png</url>
       <title>David M. Rosen</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Spectral Measurement Sparsification for Pose-Graph SLAM</title>
+      <link>https://david-m-rosen.github.io/publication/spectralsparsification-iros/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/spectralsparsification-iros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Accelerating Certifiable Estimation with Preconditioned Eigensolvers</title>
       <link>https://david-m-rosen.github.io/publication/fast-verification/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://david-m-rosen.github.io/publication/fast-verification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation</title>
+      <link>https://david-m-rosen.github.io/publication/larpg-iros/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/larpg-iros/</guid>
       <description></description>
     </item>
     
@@ -41,22 +57,6 @@
       <link>https://david-m-rosen.github.io/publication/cidgik/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://david-m-rosen.github.io/publication/cidgik/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spectral Measurement Sparsification for Pose-Graph SLAM</title>
-      <link>https://david-m-rosen.github.io/publication/spectralsparsification-iros/</link>
-      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://david-m-rosen.github.io/publication/spectralsparsification-iros/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation</title>
-      <link>https://david-m-rosen.github.io/publication/larpg-iros/</link>
-      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://david-m-rosen.github.io/publication/larpg-iros/</guid>
       <description></description>
     </item>
     
@@ -138,6 +138,7 @@
 
 
 
+&lt;p&gt;&lt;strong&gt;[21-Dec-2022]&lt;/strong&gt; Starting Jan 2023 I will be an Associate Editor for the &lt;em&gt;International Journal of Robotics Research&lt;/em&gt; (&lt;a href=&#34;https://journals.sagepub.com/home/ijr&#34;&gt;IJRR&lt;/a&gt;) in the area of &amp;ldquo;Localization and Mapping&amp;rdquo;.  I look forward to reviewing some of the very best work being done in robotics :-)!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[13-Dec-2022]&lt;/strong&gt; My research group has a new &lt;a href=&#34;https://neural.lab.northeastern.edu&#34;&gt;website&lt;/a&gt;!  Check it out for all the latest and greatest news on trustworthy autonomy :-).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[7-Dec-2022]&lt;/strong&gt; My research group has been awarded a new grant from &lt;a href=&#34;https://www.tri.global/&#34;&gt;Toyota Research Institute&lt;/a&gt; to develop novel perception and learning methods for high-agility autonomous driving!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[18-Oct-2022]&lt;/strong&gt;  Our &lt;a href=&#34;https://david-m-rosen.github.io/publication/fast-verification/&#34;&gt;paper&lt;/a&gt; on fast verification for certifiable estimation has been accepted to the &lt;em&gt;IEEE Robotics and Automation Letters&lt;/em&gt;!&lt;/p&gt;

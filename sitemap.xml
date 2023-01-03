@@ -2,13 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://david-m-rosen.github.io/publication-type/1/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/tag/algebraic-connectivity/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/authors/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/author/david-m.-rosen/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/author/john-j.-leonard/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/author/kevin-j.-doherty/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/tag/pose-graph-slam/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/publication_types/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/publication/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/tag/sparsification/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/tag/spectral-approximation/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/publication/spectralsparsification-iros/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/tags/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://david-m-rosen.github.io/publication-type/2/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://david-m-rosen.github.io/publication/fast-verification/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/authors/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://david-m-rosen.github.io/tag/burer-monteiro-factorization/</loc>
@@ -23,26 +62,38 @@
     <loc>https://david-m-rosen.github.io/tag/convex-relaxation/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://david-m-rosen.github.io/author/david-m.-rosen/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://david-m-rosen.github.io/tag/global-optimization/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/publication_types/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/publication/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://david-m-rosen.github.io/tag/semidefinite-programming/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://david-m-rosen.github.io/tags/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+    <loc>https://david-m-rosen.github.io/author/alec-koppel/</loc>
+    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/author/amrit-singh-bedi/</loc>
+    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/tag/collaborative-geometric-estimation/</loc>
+    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/publication/larpg-iros/</loc>
+    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/author/jonathan-p.-how/</loc>
+    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/tag/lazy-communication/</loc>
+    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/author/miguel-calvo-fullana/</loc>
+    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/tag/riemannian-optimization/</loc>
+    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/author/yulun-tian/</loc>
+    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://david-m-rosen.github.io/publication-type/3/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
@@ -62,19 +113,10 @@
     <loc>https://david-m-rosen.github.io/publication/nf-isam/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://david-m-rosen.github.io/author/john-j.-leonard/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/author/jonathan-p.-how/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://david-m-rosen.github.io/author/joseph-morales/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://david-m-rosen.github.io/author/kasra-khousoussi/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/author/kevin-j.-doherty/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://david-m-rosen.github.io/tag/normalizing-flows/</loc>
@@ -127,48 +169,6 @@
   </url><url>
     <loc>https://david-m-rosen.github.io/author/valentin-peretroukhin/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/publication-type/1/</loc>
-    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/tag/algebraic-connectivity/</loc>
-    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/tag/pose-graph-slam/</loc>
-    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/tag/sparsification/</loc>
-    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/tag/spectral-approximation/</loc>
-    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/publication/spectralsparsification-iros/</loc>
-    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/author/alec-koppel/</loc>
-    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/author/amrit-singh-bedi/</loc>
-    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/tag/collaborative-geometric-estimation/</loc>
-    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/publication/larpg-iros/</loc>
-    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/tag/lazy-communication/</loc>
-    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/author/miguel-calvo-fullana/</loc>
-    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/tag/riemannian-optimization/</loc>
-    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/author/yulun-tian/</loc>
-    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://david-m-rosen.github.io/tag/initialization/</loc>
     <lastmod>2022-01-11T00:00:00+00:00</lastmod>
