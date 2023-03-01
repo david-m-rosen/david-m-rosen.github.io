@@ -37,6 +37,14 @@
     </item>
     
     <item>
+      <title>Certifiably Correct Range-Aided SLAM</title>
+      <link>https://david-m-rosen.github.io/publication/cora/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/cora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows</title>
       <link>https://david-m-rosen.github.io/publication/nf-isam/</link>
       <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
@@ -138,6 +146,8 @@
 
 
 
+&lt;p&gt;&lt;strong&gt;[22-Feb-2023]&lt;/strong&gt; I visited MIT Lincoln Laboratory&amp;rsquo;s &lt;a href=&#34;https://www.ll.mit.edu/r-d/space-systems-and-technology&#34;&gt;Space Systems and Technology Group&lt;/a&gt; to share some of our team&amp;rsquo;s recent work on building high-reliability autonomous systems.  Many thanks to &lt;a href=&#34;http://people.csail.mit.edu/ju21743/&#34;&gt;Justin Chen&lt;/a&gt; for the invitation to speak and for hosting my visit; I really enjoyed the opportunity to hear about all of the outstanding work being done at the Lab, and how &lt;a href=&#34;https://neural.lab.northeastern.edu/&#34;&gt;NEURAL&amp;rsquo;s research&lt;/a&gt; can be applied to enable safe and resilient space operations :-)!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[16-Feb-2023]&lt;/strong&gt; I delivered a lightning talk on &lt;a href=&#34;https://neural.lab.northeastern.edu/&#34;&gt;NEURAL&amp;rsquo;s research&lt;/a&gt; at Northeastern&amp;rsquo;s &lt;a href=&#34;https://robotics.northeastern.edu/&#34;&gt;Institute for Experiential Robotics&lt;/a&gt; Seminar Series.  Thanks to &lt;a href=&#34;https://cos.northeastern.edu/people/salah-bazzi/&#34;&gt;Salah Bazzi&lt;/a&gt; for the invitation to speak!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[21-Dec-2022]&lt;/strong&gt; Starting Jan 2023 I will be an Associate Editor for the &lt;em&gt;International Journal of Robotics Research&lt;/em&gt; (&lt;a href=&#34;https://journals.sagepub.com/home/ijr&#34;&gt;IJRR&lt;/a&gt;) in the area of &amp;ldquo;Localization and Mapping&amp;rdquo;.  I look forward to reviewing some of the very best work being done in robotics :-)!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[13-Dec-2022]&lt;/strong&gt; My research group has a new &lt;a href=&#34;https://neural.lab.northeastern.edu&#34;&gt;website&lt;/a&gt;!  Check it out for all the latest and greatest news on trustworthy autonomy :-).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[7-Dec-2022]&lt;/strong&gt; My research group has been awarded a new grant from &lt;a href=&#34;https://www.tri.global/&#34;&gt;Toyota Research Institute&lt;/a&gt; to develop novel perception and learning methods for high-agility autonomous driving!&lt;/p&gt;
