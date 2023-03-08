@@ -3,33 +3,75 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://david-m-rosen.github.io/publication-type/1/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/author/alan-papalia/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/authors/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/tag/convex-relaxation/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/author/david-m.-rosen/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/author/john-j.-leonard/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/author/joseph-morales/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/author/kevin-j.-doherty/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/publication_types/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/publication/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/tag/range-aided-slam/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/publication/score/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/tag/second-order-cone-program/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/tag/slam/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/tags/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/publication-type/3/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/author/andrew-fishberg/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/author/brendan-w.-oneill/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/tag/certifiable-estimation/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/publication/cora/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://david-m-rosen.github.io/author/jonathan-p.-how/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://david-m-rosen.github.io/tag/algebraic-connectivity/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://david-m-rosen.github.io/authors/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/author/david-m.-rosen/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/author/john-j.-leonard/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/author/kevin-j.-doherty/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://david-m-rosen.github.io/tag/pose-graph-slam/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/publication_types/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/publication/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://david-m-rosen.github.io/tag/sparsification/</loc>
@@ -41,9 +83,6 @@
     <loc>https://david-m-rosen.github.io/publication/spectralsparsification-iros/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://david-m-rosen.github.io/tags/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://david-m-rosen.github.io/publication-type/2/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -53,13 +92,7 @@
     <loc>https://david-m-rosen.github.io/tag/burer-monteiro-factorization/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://david-m-rosen.github.io/tag/certifiable-estimation/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://david-m-rosen.github.io/tag/certifiable-perception/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/tag/convex-relaxation/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://david-m-rosen.github.io/tag/global-optimization/</loc>
@@ -80,9 +113,6 @@
     <loc>https://david-m-rosen.github.io/publication/larpg-iros/</loc>
     <lastmod>2022-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://david-m-rosen.github.io/author/jonathan-p.-how/</loc>
-    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://david-m-rosen.github.io/tag/lazy-communication/</loc>
     <lastmod>2022-10-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -95,34 +125,16 @@
     <loc>https://david-m-rosen.github.io/author/yulun-tian/</loc>
     <lastmod>2022-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://david-m-rosen.github.io/publication-type/3/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/author/alan-papalia/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/author/andrew-fishberg/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://david-m-rosen.github.io/tag/approximate-bayesian-inference/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://david-m-rosen.github.io/author/brendan-w.-oneill/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://david-m-rosen.github.io/author/can-pu/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/publication/cora/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://david-m-rosen.github.io/author/dehann-fourie/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://david-m-rosen.github.io/publication/nf-isam/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/author/joseph-morales/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://david-m-rosen.github.io/author/kasra-khousoussi/</loc>
@@ -135,18 +147,6 @@
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://david-m-rosen.github.io/author/qiangqiang-huang/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/tag/range-aided-slam/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/publication/score/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/tag/second-order-cone-program/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://david-m-rosen.github.io/tag/slam/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://david-m-rosen.github.io/publication/cidgik/</loc>

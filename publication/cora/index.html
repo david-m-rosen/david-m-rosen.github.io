@@ -283,21 +283,20 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="David M. Rosen">
   <meta property="og:url" content="https://david-m-rosen.github.io/publication/cora/">
   <meta property="og:title" content="Certifiably Correct Range-Aided SLAM | David M. Rosen">
-  <meta property="og:description" content="We develop the first convex relaxation for the general multi-robot range-aided SLAM (RA-SLAM) problem."><meta property="og:image" content="https://david-m-rosen.github.io/images/icon_hu7e2761efb3c44adaa07cc24d40f754ce_13780_512x512_fill_lanczos_center_3.png">
-  <meta property="twitter:image" content="https://david-m-rosen.github.io/images/icon_hu7e2761efb3c44adaa07cc24d40f754ce_13780_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="We develop the first convex relaxation for the general multi-robot range-aided SLAM (RA-SLAM) problem."><meta property="og:image" content="https://david-m-rosen.github.io/publication/cora/featured.png">
+  <meta property="twitter:image" content="https://david-m-rosen.github.io/publication/cora/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2020-08-08T15:23:37-04:00">
     
-    <meta property="article:modified_time" content="2022-09-14T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-02-28T00:00:00&#43;00:00">
   
 
   
@@ -323,8 +322,12 @@
   },
   "headline": "Certifiably Correct Range-Aided SLAM",
   
+  "image": [
+    "https://david-m-rosen.github.io/publication/cora/featured.png"
+  ],
+  
   "datePublished": "2020-08-08T15:23:37-04:00",
-  "dateModified": "2022-09-14T00:00:00Z",
+  "dateModified": "2023-02-28T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -591,18 +594,26 @@
 
 
 
-  
+
+
+
+
+
+
+
 
   
   
+    
   
+
+
 <div class="article-container pt-3">
   <h1>Certifiably Correct Range-Aided SLAM</h1>
 
   
 
   
-    
 
 
 <div class="article-metadata">
@@ -626,7 +637,7 @@
     
       
     
-    September 2022
+    February 2023
   </span>
   
 
@@ -643,7 +654,7 @@
 
 </div>
 
-    
+  
 
 
 
@@ -704,7 +715,14 @@
 </div>
 
 
-  
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 719px;">
+  <div style="position: relative">
+    <img src="/publication/cora/featured_hu04b821fcdc7c5c6170c80333163ea2dc_223779_720x0_resize_lanczos_3.png" alt="" class="featured-image">
+    
+  </div>
 </div>
 
 
@@ -713,7 +731,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">We present the first algorithm capable of efficiently computing certifiably optimal solutions to range-aided simultaneous localization and mapping (RA-SLAM) problems. Robotic navigation systems are increasingly incorporating point-to-point ranging sensors, leading to state estimation problems that take the form of RA-SLAM. However, the RA-SLAM problem is more difficult to solve than traditional pose-graph SLAM; ranging sensor models introduce additional non-convexity (so that RA-SLAM inference is highly sensitive to initial estimates), and unlike pose-pose or pose-landmark measurements, a single range measurement does not uniquely determine the relative transform between the involved sensors. Our approach relaxes the RA-SLAM problem to a semidefinite program (SDP), which we show how to solve efficiently using the Riemannian Staircase methodology. The solution of this SDP provides a high-quality initialization for our original RA-SLAM problem, which is subsequently refined via local optimization, as well as a lower-bound on the RA-SLAM problem&rsquo;s optimal value. Our algorithm, named certifiably correct RA-SLAM (CORA), applies to problems comprised of arbitrary pose-pose, pose-landmark, and ranging measurements. Evaluation on simulated and real-world marine examples shows that our algorithm frequently produces certifiably optimal RA-SLAM solutions; moreover, even suboptimal estimates are typically within 1-2% of the optimal value.</p>
+    <p class="pub-abstract">We present the first algorithm capable of efficiently computing certifiably optimal solutions to range-aided simultaneous localization and mapping (RA-SLAM) problems. Robotic navigation systems are increasingly incorporating point-to-point ranging sensors, leading to state estimation problems that take the form of RA-SLAM. However, the RA-SLAM problem is significantly more difficult to solve than traditional pose-graph SLAM: ranging sensor models introduce additional non-convexity (so that RA-SLAM inference is highly sensitive to initial estimates), and unlike pose-pose or pose-landmark measurements, a single range measurement does not uniquely determine the relative transform between the involved sensors. Our approach relaxes the RA-SLAM problem to a semidefinite program (SDP), which we show how to solve efficiently using the Riemannian Staircase methodology. The solution of this SDP provides a high-quality initialization for our original RA-SLAM problem, which is subsequently refined via local optimization, as well as a lower-bound on the RA-SLAM problem&rsquo;s optimal value. Our algorithm, named certifiably correct RA-SLAM (CORA), applies to problems comprised of arbitrary pose-pose, pose-landmark, and ranging measurements. Evaluation on simulated and real-world marine examples shows that our algorithm frequently produces certifiably optimal RA-SLAM solutions; moreover, even suboptimal estimates are typically within 1-2% of the optimal value.</p>
     
 
     

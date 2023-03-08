@@ -5,12 +5,28 @@
     <link>https://david-m-rosen.github.io/publication/</link>
       <atom:link href="https://david-m-rosen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 David M. Rosen</copyright><lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 David M. Rosen</copyright><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://david-m-rosen.github.io/images/icon_hu7e2761efb3c44adaa07cc24d40f754ce_13780_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://david-m-rosen.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>SCORE:  A Second-Order Conic Initialization for Range-Aided SLAM</title>
+      <link>https://david-m-rosen.github.io/publication/score/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/score/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Certifiably Correct Range-Aided SLAM</title>
+      <link>https://david-m-rosen.github.io/publication/cora/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/cora/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spectral Measurement Sparsification for Pose-Graph SLAM</title>
@@ -37,26 +53,10 @@
     </item>
     
     <item>
-      <title>Certifiably Correct Range-Aided SLAM</title>
-      <link>https://david-m-rosen.github.io/publication/cora/</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://david-m-rosen.github.io/publication/cora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows</title>
       <link>https://david-m-rosen.github.io/publication/nf-isam/</link>
       <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://david-m-rosen.github.io/publication/nf-isam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCORE:  A Second-Order Conic Initialization for Range-Aided SLAM</title>
-      <link>https://david-m-rosen.github.io/publication/score/</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://david-m-rosen.github.io/publication/score/</guid>
       <description></description>
     </item>
     
