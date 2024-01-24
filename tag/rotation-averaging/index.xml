@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rotation averaging | David M. Rosen</title>
+    <title>rotation averaging | David M. Rosen</title>
     <link>https://david-m-rosen.github.io/tag/rotation-averaging/</link>
       <atom:link href="https://david-m-rosen.github.io/tag/rotation-averaging/index.xml" rel="self" type="application/rss+xml" />
-    <description>Rotation averaging</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 David M. Rosen</copyright><lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <description>rotation averaging</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 David M. Rosen</copyright><lastBuildDate>Tue, 28 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://david-m-rosen.github.io/images/icon_hu7e2761efb3c44adaa07cc24d40f754ce_13780_512x512_fill_lanczos_center_3.png</url>
-      <title>Rotation averaging</title>
+      <url>https://david-m-rosen.github.io/images/icon_hu7e2761efb3c44adaa07cc24d40f754ce_13780_512x512_fill_lanczos_center_2.png</url>
+      <title>rotation averaging</title>
       <link>https://david-m-rosen.github.io/tag/rotation-averaging/</link>
     </image>
+    
+    <item>
+      <title>Multi-Irreducible Spectral Synchronization for Robust Rotation Averaging</title>
+      <link>https://david-m-rosen.github.io/publication/multi-irreducible-sync/</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://david-m-rosen.github.io/publication/multi-irreducible-sync/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM</title>
